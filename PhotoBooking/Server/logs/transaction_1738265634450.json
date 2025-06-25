@@ -1,0 +1,22 @@
+{
+    "transaction_id": "1738265634450",
+    "logs": [
+        {
+            "table": "Bookings",
+            "record_id": 1,
+            "data": {
+                "TimeslotID": 4,
+                "ClientID": 1,
+                "Location": "Paris",
+                "Status": "Scheduled"
+            }
+        },
+        {
+            "table": "Timeslots",
+            "record_id": 4,
+            "data": {
+                "Status": "Booked"
+            }
+        }
+    ]
+}

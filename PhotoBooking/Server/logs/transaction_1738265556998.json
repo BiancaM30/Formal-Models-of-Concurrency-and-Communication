@@ -1,0 +1,16 @@
+{
+    "transaction_id": 1738265556998,
+    "logs": [
+        {
+            "table": "Timeslots",
+            "record_id": null,
+            "data": {
+                "PhotographerID": "4",
+                "AvailableDate": "2025-02-20",
+                "StartTime": "00:32",
+                "EndTime": "01:32",
+                "Status": "Available"
+            }
+        }
+    ]
+}

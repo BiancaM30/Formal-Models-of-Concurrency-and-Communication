@@ -1,0 +1,22 @@
+{
+    "transaction_id": 1738262980021,
+    "logs": [
+        {
+            "table": "Timeslots",
+            "record_id": 9,
+            "data": {
+                "Status": "Available"
+            }
+        },
+        {
+            "table": "Bookings",
+            "record_id": null,
+            "data": {
+                "TimeslotID": 9,
+                "ClientID": "2",
+                "Location": "cluj",
+                "Status": "Scheduled"
+            }
+        }
+    ]
+}

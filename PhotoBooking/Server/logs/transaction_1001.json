@@ -1,0 +1,22 @@
+{
+    "transaction_id": 1001,
+    "logs": [
+        {
+            "table": "Timeslots",
+            "record_id": 4,
+            "data": {
+                "Status": "Available"
+            }
+        },
+        {
+            "table": "Bookings",
+            "record_id": null,
+            "data": {
+                "TimeslotID": 4,
+                "ClientID": 1,
+                "Location": "Paris",
+                "Status": "Scheduled"
+            }
+        }
+    ]
+}
