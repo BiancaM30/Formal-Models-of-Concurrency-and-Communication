@@ -15,16 +15,6 @@ All operations are transactional and may involve multiple databases. The main fo
 
 ---
 
-## Architecture
-
-- **Type**: Distributed (Client-Server or Web-Based)
-- **Layers**:
-  - **Client/UI**: Web or desktop interface
-  - **Business Layer**: Transaction coordination and concurrency control
-  - **Data Layer**: Two distinct relational databases
-
----
-
 ## Database Design
 
 ### Database 1 – `MFCC_db1`
